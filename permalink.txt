@@ -1,1 +1,1 @@
-https://github.com/dchwong/bitstarter/blob/5f50d680c9e13d764b15f5a8c6456c9dbf6d6445/index.html
+https://raw.github.com/dchwong/bitstarter/39ef85e9516df7445c7cdfdae41351b72f007350/index.html
